@@ -25,5 +25,6 @@ public class GitTest {
         System.out.println("master update");
         System.out.println("hot-fix update");
         System.out.println("push to github!");
+        System.out.println("pull from github!");
     }
 }
